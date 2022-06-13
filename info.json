@@ -1,0 +1,23 @@
+{
+    "name": "Artan Plaku",
+    "website": "https://github.com/artanplaku",
+    "linkedin": "https://www.linkedin.com/in/artan-plaku/",
+    "github": "artanplaku",
+    "email": "artanpl03@gmail.com",
+    "resume": "https://tomatohammado.github.io/assets/Malik-Hammad-Resume.pdf",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Node",
+        "Express",
+        "Mongodb",
+        "Python",
+        "Django",
+        "Wordpress"
+    ],
+    "otherSkills": [
+        "Unagi",
+        "Five Finger Fillet",
+        "Bridge"
+    ]
+}
